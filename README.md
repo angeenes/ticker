@@ -30,4 +30,4 @@ itemSelector: '#ticker'<br/>
 
 <br/><br/>
 HTML markup to add in your page to display the news ticker :<br/>
-<div class="ticker" id="ticker"></div>
+'<div class="ticker" id="ticker"></div>'
