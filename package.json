@@ -1,0 +1,35 @@
+{
+  "name": "ticker",
+  "version": "1.0.0",
+  "description": "A jQuery plugin to display a news ticker on a website",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-stylus": "^1.2.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeenes/ticker.git"
+  },
+  "keywords": [
+    "ticker",
+    "news",
+    "jquery",
+    "plugin"
+  ],
+  "author": "nelson patrao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeenes/ticker/issues"
+  },
+  "homepage": "https://github.com/angeenes/ticker#readme"
+}
