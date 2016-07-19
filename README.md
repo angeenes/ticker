@@ -8,11 +8,13 @@ Haven't tested with earlier versions yet<br/>
 
 Init the plugin on the element you whish with the following code :
 
+```javascript
 $('#ticker').newsTicker({
   url: '',
   animation: 'bottom-up',
   itemSelector: '#ticker'
 })
+```
 
 List of options :
 <br/><br/>
